@@ -21,7 +21,7 @@ If you want to update pre-built version, you can use [this instructions](https:/
 ### Using as userscript
 
 1. Install [userscript manager](https://greasyfork.org/help/installing-user-scripts)
-1. Click to [link](https://raw.githubusercontent.com/Pmmlabs/OpenPeriscope/master/Periscope_Web_Client.user.js) and then "Install"
+1. Click to [link](https://github.com/KaMyKaSii/OpenPeriscope/raw/master/Periscope_Web_Client.user.js) and then "Install"
 1. Navigate to http://example.net
 
 In this case posting to chat will not work.
